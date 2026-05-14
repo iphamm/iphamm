@@ -1,7 +1,7 @@
 # Hi there, I'm Ilham! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Data+Analyst;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ---
@@ -32,17 +32,17 @@ Di bawah ini adalah statistik *real-time* dari aktivitas GitHub-ku!
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=iphamm&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iphamm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iphamm&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iphamm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
   <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iphamm&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iphamm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
