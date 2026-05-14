@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Ilham! 👋
 
-<!--
-**iphamm/iphamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Tentang Aku
+- 🔭 Saat ini sedang mengerjakan: **Dashboard Analisis Sentimen Aplikasi BRKS Mobile**
+- 🌱 Saat ini sedang belajar: **NLP dan Data Analytics**
+- 💬 Tanya aku tentang: **HTML, CSS, JavaScript, Pyhton**
+- 📫 Cara menghubungi saya: **www.linkedin.com/in/milhamramadhana**
+
+---
+
+### 🛠️ Tech Stack & Tools (Keahlian)
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</div>
+
+---
+
+### 📊 GitHub Analytics Dashboard
+Di bawah ini adalah statistik *real-time* dari aktivitas GitHub-ku!
+
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=iphamm&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" width="48%" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iphamm&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iphamm&theme=radium&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+</div>
