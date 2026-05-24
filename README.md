@@ -1,7 +1,7 @@
 # Hi there, I'm Ilham! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&random=false&width=435&lines=Informatics+Engineering+Student,Aspiring+Data+Analyst;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&random=false&width=435&lines=Informatics+Engineering+Student;Aspiring+Data+Analyst;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ---
